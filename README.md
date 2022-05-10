@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/ValentinOsvaldo/recipe-page">
+    <a href="https://valentinosvaldo.github.io/recipe-page">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ValentinOsvaldo/recipe-page.git">
+    <a href="https://github.com/ValentinOsvaldo/recipe-page">
       Solution
     </a>
     <span> | </span>
